@@ -43,7 +43,7 @@
 		formData.append('phone', phone.value)
 		formData.append('body', message.value)
 		formData.append('site', 'Tuspe Design Oy')
-		const res = await fetch("https://api.tuspe.com/emails.php", {
+		const res = await fetch("https://api.timoanttila.com/emails.php", {
 			method: 'POST',
 			body: formData,
 			cors: true
