@@ -18,10 +18,6 @@
 			logo: "molentum",
 			url: "https://molentum.fi/"
 		}, {
-			title: "SatuMo Oy",
-			logo: "satumo",
-			url: "https://www.satumo.fi/"
-		}, {
 			title: "BlackFly Oy",
 			logo: "blackfly",
 			url: "https://blackfly.fi/"
