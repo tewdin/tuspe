@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Official website of Tuspe Design Oy built in Svelle and Routify.",
   "homepage": "https://tuspe.com",
-  "bugs": "https://github.com/timoanttila/tuspe/issues",
+  "bugs": "https://github.com/timoanttila/Svelte-Tuspe/issues",
   "license": "GNU GPL",
   "keywords": [
     "svelte",
@@ -38,28 +38,28 @@
     "routify": "routify"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^16.0.0",
+    "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^10.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
     "concurrently": "^5.3.0",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "del": "^6.0.0",
-    "nollup": "^0.13.13",
+    "nollup": "^0.14.2",
     "npm-run-all": "^4.1.5",
-    "rollup": "^2.33.3",
+    "rollup": "^2.34.2",
     "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-hot": "^0.1.1",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
-    "rollup-plugin-svelte-hot": "^0.11.2",
+    "rollup-plugin-svelte-hot": "^0.13.0",
     "rollup-plugin-terser": "^7.0.2",
     "spassr": "^2.1.6"
   },
   "dependencies": {
     "@rollup/plugin-replace": "^2.3.4",
     "@sveltech/routify": "^1.9.10",
-    "svelte": "^3.29.7",
-    "workbox-cli": "^5.1.4"
+    "svelte": "^3.31.0",
+    "workbox-cli": "^6.0.2"
   },
   "routify": {
     "extensions": "svelte,html,svx,md",
