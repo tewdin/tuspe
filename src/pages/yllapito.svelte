@@ -57,7 +57,7 @@
 			<li>Alennetut hinnat uusille projekteille.</li>
 			<li>Sisällönhallintaohjelmien ja niiden moduulien päivitykset</li>
 			<li>Aina uusimpia paketteja ja suojausia käyttävä palvelin</li>
-			<li><a href="/verkkotunnukset">Verkkotunnus</a> (domain) ensimmäiseksi vuodeksi (esim. fi tai com)</li>
+			<li>Uusi <a href="/verkkotunnukset">verkkotunnus</a> (domain) ensimmäiseksi vuodeksi (esim. fi tai com)</li>
 			<li>Tarvittaessa nimipalvelut verkkotunnukselle (2)</li>
 			<li>Tekninen tuki + hyvät vinkit tulevaisuudelle</li>
 		</ul>
