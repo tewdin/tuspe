@@ -18,10 +18,6 @@
 			logo: "molentum",
 			url: "https://molentum.fi/"
 		}, {
-			title: "BlackFly Oy",
-			logo: "blackfly",
-			url: "https://blackfly.fi/"
-		}, {
 			title: "Ratsukko Solutions Oy",
 			logo: "ratsukko",
 			url: "https://www.ratsukko.com/"
